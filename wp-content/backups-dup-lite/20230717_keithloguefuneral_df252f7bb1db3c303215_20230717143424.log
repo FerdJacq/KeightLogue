@@ -1,0 +1,74 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: July 17, 2023 2:35 pm
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.5
+WORDPRESS:	6.2.2
+PHP INFO:	8.1.17 | SAPI: apache2handler
+SERVER:		Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.1.17 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (512M default) 
+MEMORY STACK: 72MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: 20230717_keithloguefuneral_df252f7bb1db3c303215_20230717143424_database.sql
+SQL FILE SIZE: 5.13MB (5382546)
+SQL FILE TIME: 2023-07-17 14:35:16
+SQL RUNTIME: 13.51 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  D:/xampp/htdocs/Wordpress
+ARCHIVE FILE: 20230717_keithloguefuneral_df252f7bb1db3c303215_20230717143424_archive.zip
+FILTERS: *ON*
+DIRS:
+	D:/xampp/htdocs/Wordpress/wp-content/plugins/elementor/assets/js/packages
+	D:/xampp/htdocs/Wordpress/wp-content/uploads/2023/07
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	146.53MB
+STATS:	Dirs 1,600 | Files 7,620
+SQL ADDED: 20230717_keithloguefuneral_df252f7bb1db3c303215_20230717143424_database.sql
+ZipArchive Object
+(
+    [lastId] => 9219
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 9220
+    [filename] => D:\xampp\htdocs\Wordpress\wp-content\backups-dup-lite\tmp\20230717_keithloguefuneral_df252f7bb1db3c303215_20230717143424_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 9219
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 47.35MB
+ARCHIVE RUNTIME: 64.07 sec.
+MEMORY STACK: 74MB
+building installer
+ARCHIVE CONSISTENCY TEST: PASS
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 5.13MB
+INSTALLER FILE: 73.48KB
+ARCHIVE FILE: 49.26MB 
+EXPECTED FILE/DIRECTORY COUNT: 9,220
+ACTUAL FILE/DIRECTORY COUNT: 9,219
+ARCHIVE CONSISTENCY TEST: Pass
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 79.14 sec.
+PEAK PHP MEMORY USED: 76MB
+DONE PROCESSING => 20230717_keithloguefuneral July 17, 2023 2:36 pm
+
